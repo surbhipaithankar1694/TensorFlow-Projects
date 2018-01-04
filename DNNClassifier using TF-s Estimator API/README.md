@@ -21,3 +21,4 @@ income:	">50K" or "<=50K", meaning whether the person makes more than $50,000 an
 
 ## Conclusion ##
 We observe an accuracy of 85% which looks to be good enough. We can perform feature scaling to see further improvements in the performance.
+The DNN model was trained with 25000 steps. The model had 3 hidden layers with 20 hidden nodes in each layer.
